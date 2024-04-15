@@ -1,5 +1,3 @@
-package quizes.q3.nikoloz_bakuradze_2;
-
 public class Person {
 
     private String id;
