@@ -1,5 +1,3 @@
-package quizes.q3.nikoloz_bakuradze_2;
-
 public class Persons {
     public static final String Persons = "Liam,Oakley,1357924680\n" +
                 "Noah,Patel,2468013579\n" +
